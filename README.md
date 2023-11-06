@@ -1,5 +1,5 @@
 # Unity-Projects
-All the projects/scripts I've created, through youtube videos, Udemy training courses and my own knowledge...
+All the projects/scripts I've created in Unity (2D) , through youtube videos, Udemy training courses and my own knowledge...
 
 ## Sources : 
   - MonsterChase -> https://youtu.be/gB1F9G0JXOo?si=pD7uucCBd-Ef8N08
