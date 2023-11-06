@@ -6,4 +6,4 @@ All the projects/scripts I've created, through youtube videos, Udemy training co
   - DriverDelivery -> https://www.udemy.com/course/unitycourse/
   - SnowBoarder -> https://www.udemy.com/course/unitycourse/
   - TileVania -> https://www.udemy.com/course/unitycourse/
-  - Climbing Game -> Knowledge (not finish)
+  - Climbing Game -> Knowledge (not finish & can doesn't work)
