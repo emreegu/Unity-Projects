@@ -6,4 +6,4 @@ All the projects/scripts I've created in Unity (2D) , through youtube videos, Ud
   - Project DriverDelivery -> https://www.udemy.com/course/unitycourse/
   - Project SnowBoarder -> https://www.udemy.com/course/unitycourse/
   - Project TileVania -> https://www.udemy.com/course/unitycourse/
-  - Project Climbing Game -> Knowledge (not finish & can doesn't work)
+  - Project Climbing Game -> Knowledge (not finish & it may not work)
